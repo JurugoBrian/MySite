@@ -1,2 +1,2 @@
 # MySite
-Django web application
+Django polling web application
