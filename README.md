@@ -1,2 +1,2 @@
 # MySite
-Django polling web application
+Django crush course web application
